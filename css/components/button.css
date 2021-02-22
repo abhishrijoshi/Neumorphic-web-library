@@ -1,0 +1,26 @@
+.btn-medium {
+border-radius: 92px;
+background: #e0e0e0;
+box-shadow:  5px 5px 10px #5a5a5a,
+             -5px -5px 10px #ffffff;
+}
+
+.btn-medium:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #999999;
+}
+
+.btn-treehouse {
+border-radius: 48px;
+background: #e0e0e0;
+box-shadow:  5px 5px 10px #5a5a5a,
+             -5px -5px 10px #ffffff;
+}
+
+.btn-treehouse:hover {
+  opacity: 1;
+  background: ;#535c7f
+  text-decoration: none;
+  color: white;
+}

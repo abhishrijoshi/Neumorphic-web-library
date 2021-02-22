@@ -1,0 +1,15 @@
+.banner {
+background: linear-gradient(145deg, #FFFFFF, #D0D1D5);
+border-radius: 25px;
+box-shadow: 0.3px 0.3px 64px #77787A, -0.3px -0.3px 64px #FFFFFF;
+}
+
+.banner h1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.banner p {
+  font-size: 30px;
+  font-weight: lighter;
+}
